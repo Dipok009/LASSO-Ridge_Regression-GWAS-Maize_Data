@@ -6,7 +6,7 @@ This repository contains the implementation and report for the project:
 PhD Student, Big Data Analytics, UCF  
 Email: dipok.deb@ucf.edu  
 
-📄 Full report: [`report/Performance_of_LASSO_and_Ridge.pdf`](report/Performance_of_LASSO_and_Ridge.pdf)
+📄 Full report: https://github.com/Dipok009/LASSO-Ridge_Regression-GWAS-Maize_Data/blob/main/Performance%20of%20LASSO%20and%20Ridge%20Regression%20for%20Variable%20Selection.pdf
 
 ---
 
