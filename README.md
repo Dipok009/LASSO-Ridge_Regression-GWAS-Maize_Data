@@ -87,10 +87,11 @@ The models are compared in terms of feature selection and predictive accuracy on
 If you use this work, please cite:  
 
 Deb, Dipok, "Performance of LASSO and Ridge Regression for Variable Selection in Genome-Wide Association Studies of Maize Flowering Time" (2025). Data Science and Data Mining. 42.
-https://stars.library.ucf.edu/data-science-mining/42
+> [https://stars.library.ucf.edu/data-science-mining/42](https://stars.library.ucf.edu/data-science-mining/42)
+
 
 ---
 
 ## Contact  
-For questions or collaborations, feel free to reach out via **GitHub Issues** or connect on **LinkedIn**.  
+For questions or collaborations, feel free to reach out via [GitHub Issues](https://github.com/Dipok009/LASSO-Ridge_Regression-GWAS-Maize_Data) or connect on [LinkedIn](https://www.linkedin.com/in/dipok-deb/).
 
