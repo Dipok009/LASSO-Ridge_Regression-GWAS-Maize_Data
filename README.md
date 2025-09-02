@@ -1,6 +1,6 @@
-# Performance of LASSO and Ridge Regression for Variable Selection in Genome-Wide Association Studies of Maize Selection in Genome-Wide Association Studies of Maize Flowering Time
+# Performance of LASSO and Ridge Regression for Variable Selection in Genome-Wide Association Studies of Maize Flowering Time
 
-This repository contains the implementation and report for the project:
+This project was completed as part of "STA 6366: Data Science I" at the University of Central Florida. The initial goal was to apply penalized regression techniques (LASSO and Ridge) to Genome-Wide Association Studies (GWAS) for identifying genetic variants associated with maize flowering time.
 
 **Dipok Deb**  
 PhD Student, Big Data Analytics, UCF  
