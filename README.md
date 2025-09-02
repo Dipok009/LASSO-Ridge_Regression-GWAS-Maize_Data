@@ -43,12 +43,12 @@ The models are compared in terms of feature selection and predictive accuracy on
    - Target: days to male flowering (`dtoa`)
 
 2. **Methods/Model**  
-   ### LASSO Regression  
+   **LASSO Regression**  
       - L1 regularization  
       - Encourages sparsity (zeroes out coefficients)  
       - Selects the most impactful SNPs  
 
-   ### Ridge Regression  
+   **Ridge Regression**  
       - L2 regularization  
       - Retains all features but shrinks coefficients  
       - Provides stability in correlated high-dimensional data  
